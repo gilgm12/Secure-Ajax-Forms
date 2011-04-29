@@ -28,11 +28,11 @@ $plugin_info = array(
 /**
  * Ajax_actions Class
  *
- * @package			ExpressionEngine
- * @category		Plugin
- * @author			Matt Gilg
- * @copyright		Copyright (c) 2011, VisibleDevelopment, Inc.
- * @link			http://www.mattgilg.com/
+ * @package         ExpressionEngine
+ * @category        Plugin
+ * @author          Matt Gilg
+ * @copyright       Copyright (c) 2011, VisibleDevelopment, Inc.
+ * @link            http://www.mattgilg.com/
  */
 
 

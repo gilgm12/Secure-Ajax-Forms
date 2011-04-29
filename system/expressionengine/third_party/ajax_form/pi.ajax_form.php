@@ -25,7 +25,6 @@ $plugin_info = array(
 						'pi_usage'			=> Ajax_form::usage()
 					);
 
-
 /**
  * Ajax_actions Class
  *

@@ -112,7 +112,7 @@ class Ajax_form {
 			
 			{exp:ajax_form class="Member" method="member_login"}
 			
-			<form method='post' action='{post_url}'>
+			<form id="loginForm" method='post' action='{post_url}'>
 					<input type='hidden' name='XID' value='{xid}' />
 					<input type='hidden' name='ACT' value='{action_id}' />
 					<input type='text' name='username' />
@@ -129,7 +129,7 @@ class Ajax_form {
 			function(data){
 			// handle response here, parse html, or
 			// json if using my output class mod.
-			window.location = {last};			
+			window.location = '{last}';			
 			});/*end post*/
 			
 			});/*end click*/
